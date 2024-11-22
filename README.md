@@ -11,7 +11,7 @@
 - u_law：用u律方法压缩OFDM时域信号。
 - TL：用TL方法压缩OFDM时域信号，参考：https://ieeexplore.ieee.org/document/9205986
 - CNPC：用CNPC方法压缩OFDM时域信号，参考：https://ieeexplore.ieee.org/document/9205986
-- Method4：用Method4方法压缩OFDM时域信号（作者没给命名，笑死）：https://ieeexplore.ieee.org/document/10310182
+- Method4：用Method4方法压缩OFDM时域信号（作者没给命名，笑死），参考：https://ieeexplore.ieee.org/document/10310182
 - DPD：数字预失真方法提高误码率性能。
 - Signal_compensation：用于在接收机恢复因压缩而失去的信号。
 ## 小工具
